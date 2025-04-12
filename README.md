@@ -16,3 +16,16 @@ Exercícios em Java focados em métodos com parâmetros e argumentos. Prática d
 | `08` | `Conversão de Temperatura` | `Crie um método que recebe uma temperatura em Celsius e retorna o equivalente em Fahrenheit` |
 | `09` | `Contagem de Caracteres` | `Escreva um método que recebe uma string e retorna a quantidade de caracteres que ela possui.` |
 | `10` | `Cálculo do Perímetro de um Retângulo` | `Implemente um método que recebe a largura e altura de um retângulo e retorna o seu perímetro.` |
+
+
+
+
+## 💻Exercício Intermediários
+| Dia | Desafio | Descrição |
+| :---------------- | :--------- | :--------- |
+| `11` | `Verificação de Palíndromo` | `Faça um método que recebe uma string e retorna true se for um palíndromo.` |
+| `12` | `Soma de Números em um Invervalo` | `Crie um método que recebe dois números inteiros e retorna a soma de todos os números entre eles.` |
+| `13` | `Múltiplos de um Número` | `Desenvolva um método que recebe um número inteiro e um limite e retorna todos os múltiplos desse número até o limite.` |
+| `04` | `` | `` |
+| `05` | `` | `` |
+| `06` | `` | `` |
