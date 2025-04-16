@@ -27,5 +27,7 @@ Exercícios em Java focados em métodos com parâmetros e argumentos. Prática d
 | `12` | `Soma de Números em um Invervalo` | `Crie um método que recebe dois números inteiros e retorna a soma de todos os números entre eles.` |
 | `13` | `Múltiplos de um Número` | `Desenvolva um método que recebe um número inteiro e um limite e retorna todos os múltiplos desse número até o limite.` |
 | `14` | `Ordenação de Três Números` | `Escreva um método que recebe três números inteiros e retorna um array com eles em ordem crescente.` |
-| `05` | `` | `` |
-| `06` | `` | `` |
+| `15` | `Contagem de Vogais` | `Crie um método que recebe uma string e retorna a quantidade de vogais nela.` |
+| `16` | `Verificação de Ano Bissexto` | `Desenvolva um método que recebe um ano e retorna true se for bissexto` |
+| `17` | `Inversão de String` | `Faça um método que recebe uma string e retorna a string invertida.` |
+| `18` | `` | `` |
